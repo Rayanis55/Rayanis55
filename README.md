@@ -14,13 +14,13 @@ I am a full-stack web developer who creates web projects mainly with my organiza
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
 
-## Organisation :
+## My organisation :
 
 My organisation is MazeGroup, this is my organisation with [Genius_um](https://github.com/Geniusum)
 > [!note]
 > Find all our projects and open source websites there!
 > 
-> Link
+> Link :
 > [MazeGroup website](https://mazegroup.org/)
 > 
 > [Twist Website](https://twist.mazegroup.org/)
