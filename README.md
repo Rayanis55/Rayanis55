@@ -1,5 +1,5 @@
 # Hi, how are you ?
-I am a full-stack web developer who creates web projects mainly with my organization. I also know how to design and I am a streamer and youtuber
+I am a full-stack web developer who creates web projects mainly with my organization. I'm also know how to design and I am a streamer and youtuber
 
 ## Use languages :
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
